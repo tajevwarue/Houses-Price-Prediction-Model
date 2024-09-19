@@ -78,8 +78,9 @@ To run the model, follow these steps:
 1. Clone the repository.
 2. Install the required dependencies.
 3. Run the preprocessing script to prepare the data.
-4. Train the model using the training script.
-5. Evaluate the model using the evaluation script.
+4. Train and evaluate the model using `Capstone Project 2 (Houses Price Prediction Model).ipynb`.
+5. Dump the model, the encoder and the scaler using `Capstone Project 2 (Houses Price Prediction Model).ipynb`.
+6. Run the houses_prices.py file to run the streamlit app
 
 ## Dependencies
 
